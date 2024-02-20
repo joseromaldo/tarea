@@ -1,0 +1,21 @@
+body {
+  background-image: url(../source/imagenes/fondo.jpg);
+}
+.general{
+
+  position: relative;
+  padding: 20px; /* Añadir más espacio interno */
+  margin: 30px auto; /* Centrar y agregar espacio exterior */
+  max-width: 300px;
+
+}
+
+.general2{
+
+  position: relative;
+  padding: 20px; /* Añadir más espacio interno */
+  margin: 10px auto; /* Centrar y agregar espacio exterior */
+  max-width: 300px;
+
+}
+
