@@ -1,0 +1,47 @@
+body{
+    background-image: url(../source/imagenes/fondo.jpg);
+
+}
+
+.general {
+   
+    position: relative;
+  }
+  
+  img {
+    
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    
+    
+   }
+   .cat {
+    height:300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+    width: 50%
+   }
+
+.tabla{
+
+
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+    border-collapse: 30px;
+    
+}
+
+
+.descripcion{
+    
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+    width: 50%;
+    border-color: aliceblue;
+}
